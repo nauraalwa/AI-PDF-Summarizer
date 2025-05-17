@@ -1,4 +1,4 @@
-# AI-Text-Summarizer
+# AI-PDF-Summarizer
 
 An app to summarize long paragraphs utilizing the Gemini AI API and Streamlit
 
